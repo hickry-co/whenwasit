@@ -26,7 +26,7 @@ If this policy changes, the updated version will be published on this page with 
 
 ## Support
 
-Questions, bug reports or feature requests: **hi@hickry.co**
+Questions, bug reports or feature requests: **whenwasit@hickry.co**
 
 ---
 
@@ -43,4 +43,4 @@ Questions, bug reports or feature requests: **hi@hickry.co**
 
 **Verilerin silinmesi:** Ürünleri uygulama içinden silebilir veya uygulamayı kaldırabilirsiniz. iCloud'daki veriler Ayarlar > [adınız] > iCloud > Depolamayı Yönet bölümünden silinebilir.
 
-**Destek:** hi@hickry.co
+**Destek:** whenwasit@hickry.co
